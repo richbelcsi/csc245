@@ -1,1 +1,1 @@
-# csc245
+# Welcome to my repository for CSC245.
